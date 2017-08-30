@@ -1,5 +1,5 @@
 
-MemoSent
+MemSen
 ========
 
 > Memorize whole sentences instead of words.
